@@ -9,7 +9,7 @@
 
 - 👨‍💻 I am active on [https://www.linkedin.com/in/pranjal-bhatt-3b9b53199/](https://www.linkedin.com/in/pranjal-bhatt-3b9b53199/)
 
-- 💬 Ask me about **Algorithms and Data Structures**
+- 💬 Ask me anything about **Algorithms and Data Structures**
 
 - 📫 How to reach me **bhatt.pranjal111@gmail.com**
 
