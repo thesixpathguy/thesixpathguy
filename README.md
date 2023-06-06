@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pranjal Bhatt</h1>
 <h3 align="center">A passionate competitive programmer and a fervent backend developer.</h3>
 
-- 🔭 I’m currently working on [Enterpret](https://github.com/aavaz-ai)
+- 🔭 I’m currently working at **ThoughtSpot.**
 
-- 🌱 I’m currently learning **Golang, GraphQL, AWS, and Protobufs.**
+- 🌱 I’m currently learning **MERN stack and Backend Dev in general.**
 
 - 📄 All of my details are available at [https://drive.google.com/file/d/1kA3-O0kojv8B3IyYrIcwBFfsvTZcWneO/view?usp=sharing](https://drive.google.com/file/d/1kA3-O0kojv8B3IyYrIcwBFfsvTZcWneO/view?usp=sharing)
 
 - 👨‍💻 I am active on [https://www.linkedin.com/in/pranjal-bhatt-3b9b53199/](https://www.linkedin.com/in/pranjal-bhatt-3b9b53199/)
 
-- 💬 Ask me anything about **Algorithms and Data Structures**
+- 💬 Let's discuss anything about **Backend Development**
 
 - 📫 How to reach me **bhatt.pranjal111@gmail.com**
 
