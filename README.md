@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **MERN stack and Backend Dev in general.**
 
-- 📄 All of my details are available at [https://drive.google.com/file/d/1kA3-O0kojv8B3IyYrIcwBFfsvTZcWneO/view?usp=sharing](https://drive.google.com/file/d/1kA3-O0kojv8B3IyYrIcwBFfsvTZcWneO/view?usp=sharing)
-
 - 👨‍💻 I am active on [https://www.linkedin.com/in/pranjal-bhatt-3b9b53199/](https://www.linkedin.com/in/pranjal-bhatt-3b9b53199/)
 
 - 💬 Let's discuss anything about **Backend Development**
